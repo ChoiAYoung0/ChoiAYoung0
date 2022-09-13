@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 My name is A Young Choi. I'm university student.
 
-I'm currently working on the library.
-I'm currently learning software engineering.
+I'm currently working on the library and learning software engineering.
