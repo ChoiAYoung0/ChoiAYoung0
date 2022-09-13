@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is A Young Choi. I'm university student.
+
+I'm currently working on the library.
+I'm currently learning software engineering.
